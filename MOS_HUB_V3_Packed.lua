@@ -1,4 +1,4 @@
--- MOS HUB V3 BY TIKTOK@NOELNOATHEBEST02
+-- MOS HUB V3 BY TIKTOK@NOELNOATHEBEST02 File By Luast v1.01
 return (function(...)
 local I00OI0l0 = "PCR_l3rcTqjGwdKMYFu2ohE6QnL-migkaZOxzBNyVfbH85XD7IJSAvW1Utps094e"
 local Il0l1l0I = {}
